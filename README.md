@@ -5,7 +5,7 @@
 This project analyzes **consumer conversations** from *Edmunds forums* to gain insights into the **entry-level luxury car market of USA**.  
 By analyzing the frequency and context of brand mentions, we provide strategic insights into **consumer perceptions**, **aspirational brands**, and **competitor positioning**. The analysis includes **co-occurrence matrices**, **lift calculations**, and **Multi-Dimensional Scaling (MDS)** for visualizing brand relationships.
 
-![Car Types](images/Car-Types.png)
+![Car Types](images/car_types.png)
 
 ## Key Objectives:
 
@@ -58,7 +58,7 @@ This analysis answers questions such as:
 - **BMW and Acura** are frequently compared, indicating strong competition.
 - **Toyota and Honda** are often mentioned together, especially around **affordability** and **reliability**.
 
-![Co-occurrence Matrix](images/Co-ocurance Matrix.png)
+![Co-occurrence Matrix](images/co_matrix.png)
 
 ---
 
@@ -67,7 +67,7 @@ This analysis answers questions such as:
 - **Volkswagen and Audi** have the highest lift value (**3.2069**), showing strong brand association.
 - **Toyota and Honda** have a lift value of **3.0502**, highlighting frequent comparisons in the **affordable car market**.
 
-![Lift Ratios](images/Lift Ratios.png)
+![Lift Ratios](images/lift_ratios.png)
 
 ---
 
@@ -76,7 +76,7 @@ This analysis answers questions such as:
 - **Audi, BMW, Lexus, Infiniti, and Acura** cluster closely, indicating frequent consumer comparisons in the **luxury market**.
 - **Mercedes and Subaru** are far from other brands, reflecting their **distinct market positions**.
 
-![MDS Plot](images/MDS-PLOT.png)
+![MDS Plot](images/mds_plot.png)
 
 ---
 
